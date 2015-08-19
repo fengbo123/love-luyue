@@ -1,0 +1,23 @@
+#jokes-ul li,#duanzi-ul{
+    margin:0 auto;
+    border-top:1px solid #ccc;
+    padding:20px;
+    width:900px;
+}
+article{
+    font-family: "Microsoft Yahei";
+}
+h2.article-title{
+    paddding:20px;
+    text-align:center;
+    font-family: "Microsoft Yahei";
+}
+
+pre{
+    font-family: Microsoft Yahei;
+    font-size:14px;
+}
+li>span.i-span{
+    position:absolute;
+    margin-left:-30px;
+}
